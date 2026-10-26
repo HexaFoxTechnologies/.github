@@ -26,14 +26,14 @@
 
 All six of us are co-founders, and each of us brings one side of the hexagon.
 
-| | Co-founder | Role |
-|:-:|---|---|
-| ⬢ | Madhesh Vivekanandan | AI Engineer |
-| ⬢ | Pranav Krishnaa | Frontend Engineer |
-| ⬢ | Nithish Kumar | Cloud & Support Engineer |
-| ⬢ | Prasanna Ayyappan | Data Engineer |
-| ⬢ | Raghul B | UX/UI Designer |
-| ⬢ | Mahamanimaran V | Solutions Consultant |
+| | Role |
+|:-:|---|
+| ⬢ | AI Engineer |
+| ⬢ | Frontend Engineer |
+| ⬢ | Cloud & Support Engineer |
+| ⬢ | Data Engineer |
+| ⬢ | UX/UI Designer |
+| ⬢ | Solutions Consultant |
 
 ## Why "HexaFox"?
 
